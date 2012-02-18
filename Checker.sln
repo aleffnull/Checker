@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreControls", "CoreControl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathClasses", "MathClasses\MathClasses.csproj", "{85922317-982A-419E-A044-FDCAEC0F9779}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGen", "DataGen\DataGen.csproj", "{2A578E36-9350-4EA5-B1BF-FCF0FB2131B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{85922317-982A-419E-A044-FDCAEC0F9779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85922317-982A-419E-A044-FDCAEC0F9779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85922317-982A-419E-A044-FDCAEC0F9779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A578E36-9350-4EA5-B1BF-FCF0FB2131B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A578E36-9350-4EA5-B1BF-FCF0FB2131B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A578E36-9350-4EA5-B1BF-FCF0FB2131B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A578E36-9350-4EA5-B1BF-FCF0FB2131B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
